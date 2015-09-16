@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說義足經
+#+DATE: 2015-08-30 19:35:32.113562
+#+PROPERTY: JUAN 0
